@@ -1,6 +1,4 @@
-Here's a template for a README.md file that you can customize for your project:
 
----
 
 # CollegeHub
 
@@ -50,4 +48,11 @@ For any questions or suggestions, please contact:
 - GitHub: [username](https://github.com/tylar1221)
 
 ---
+## Output
+![WhatsApp Image 2024-08-08 at 15 36 35_a91d76b1](https://github.com/user-attachments/assets/4131b058-a6c7-4616-96f9-0cace3bb1987)
+
+![WhatsApp Image 2024-08-08 at 15 36 57_4c017eb5](https://github.com/user-attachments/assets/0cca6192-f92f-4f17-bc1a-7a0f6435d3a8)
+![WhatsApp Image 2024-08-08 at 15 37 51_7269ac77](https://github.com/user-attachments/assets/d2a7cd27-bf7e-4fb4-b84a-0c66750e675b)
+![WhatsApp Image 2024-08-08 at 15 38 56_411f5958](https://github.com/user-attachments/assets/bfc45b29-6cf5-448a-b2c1-c263745486ce)
+
 
